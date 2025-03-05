@@ -11,8 +11,14 @@ This project demonstrates an ETL (Extract, Transform, Load) pipeline using Apach
 -  Automates ETL workflow with DAG scheduling and logging
 
 ## Technologies Used  
-✅ Apache Airflow  
-✅ AWS EC2  
-✅ AWS S3  
-✅ YouTube API  
-✅ Python 
+✅ Apache Airflow: Workflow orchestration
+✅ YouTube API: Data extraction
+✅ AWS EC2: Compute instance for Airflow deployment
+✅ AWS S3: Data storage
+✅ Python: Data processing and automation
+✅ Shell scripting: For environment setup
+
+## Flow Architecture
+![Your paragraph text](https://github.com/user-attachments/assets/5b84b746-3feb-4754-94c8-6b42ec594043)
+
+
